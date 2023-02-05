@@ -5,14 +5,6 @@ public class User {
     private String name, surname, city, id;
     private int age;
 
-    public User(String name, String surname, String city, String id, int age) {
-        this.name = name;
-        this.surname = surname;
-        this.city = city;
-        this.id = id;
-        this.age = age;
-    }
-
     public User() {
     }
 
